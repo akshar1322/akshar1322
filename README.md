@@ -36,8 +36,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/_akshar.x"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="_akshar.x" /></a><a href="https://ko-fi.com/aksharpatelx"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aksharpatelx" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshar1322&show_icons=true&locale=en&layout=compact" alt="akshar1322" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshar1322&show_icons=true&locale=en" alt="akshar1322" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshar1322&" alt="akshar1322" /></p>
