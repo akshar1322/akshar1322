@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **nextjs**
 
-- 💬 Ask me about **nextjs, react,php, MySQL, JS, UI**
+- 💬 Ask me about **HTML/CSS ,nextjs, react, php, MySQL, JS, python ,UI/UX**
 
 - 📫 How to reach me **aksharpatel528@gmail.com**
 
